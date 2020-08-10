@@ -4,6 +4,5 @@
 🏫School : *Daedeok Software Meister High School 1st grade*  
 
 💬**Learning language**  
-- C
-- HTML/CSS
+- C  
 - Javascript
