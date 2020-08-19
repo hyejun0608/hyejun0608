@@ -6,3 +6,5 @@
 💬**Learning language**  
 - C  
 - Javascript
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apihyejun0608anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
