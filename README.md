@@ -7,4 +7,4 @@
 - C  
 - Javascript
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apihyejun0608anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyejun0608)](https://github.com/anuraghazra/github-readme-stats)
