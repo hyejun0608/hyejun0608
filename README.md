@@ -5,7 +5,7 @@
 🏫School : *Daedeok Software Meister High School 1st grade*  
 
 💬**Learning language**  
-- C  
+- C/C++  
 - Javascript (React)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejun0608&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
