@@ -7,5 +7,3 @@
 - C/C++  
 - Javascript (React, Node)
 - typescript
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=entry_dsm)](https://velog.io/@entry_dsm/%EC%9D%91-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%A9%B4-%EA%B7%B8%EB%A7%8C%EC%9D%B4%EC%95%BC)
