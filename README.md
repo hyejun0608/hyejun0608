@@ -5,5 +5,5 @@
 [<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/9a98f36e-c81c-49c7-a044-b54fdd852d40" />](https://www.linkedin.com/in/%ED%98%9C%EC%A4%80-%EA%B9%80-90332822a/)
 
 ### Experiences
-#### JNPMEDI <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e5798190-d4d7-46ad-aa71-e6dd69ee1962" />
+#### JNPMEDI
 Software Engineer (2022.10 ~ )
